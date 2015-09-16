@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說枯樹經
+#+DATE: 2015-08-30 20:21:21.739866
+#+PROPERTY: JUAN 0
