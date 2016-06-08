@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:21.536128
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:48
 #+TITLE: 佛說枯樹經
 #+PROPERTY: CBETA_ID T17n0806
 #+PROPERTY: ID KR6i0512
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 806
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0512_T_000-0751a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0512_T_001-0751a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.806¶
-
- 《佛說枯樹經》一卷¶
+No. 806¶
+《佛說枯樹經》一卷¶
 ¶
 
 僧伽尼城北，迦葉佛時偷婆，陷在下方金剛¶
@@ -40,7 +39,7 @@ No.806¶
 偷婆當城門，王欲壞之，勅城內嚴銚䤺，明當¶
 除之。夜半偷婆便移，從城上過，音聲振國，去¶
 城南二十里，在林樹間止。所勸王破寺臣者，¶
-即誅五族。王覩變知，改為清信士，自移來，可¶
+即誅五族。王覩變知改，為清信士，自移來，可¶
 四十年許。諸王寺朽壞，後有橫王出，更修飾¶
 之，今日現在。¶
 《佛說枯樹經》
